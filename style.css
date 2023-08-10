@@ -1,0 +1,19 @@
+/* The code below puts the title of the website in the center */
+.title { 
+    text-align: center;
+}
+
+/* The code below adds a white background-color and black text color for the body of the page. */
+body {
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+
+/* The code below adds a black background-color and white text color for each section heading. */
+.section {
+    color:white;
+    text-align: center;
+    background-color: black;
+}
