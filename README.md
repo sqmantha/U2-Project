@@ -23,8 +23,7 @@ Add HTML elements to your page, including but not limited to:
 5. Headings
 6. Paragraphs
 7. Images
-8. Links
-9. Lists
+8. LinksLists
 
 CSS
 10. Include a background color
