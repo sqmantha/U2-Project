@@ -12,31 +12,32 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 ## Project Task List
 
 
-Project Plan
-1. Clone or Fork the Starter Code.
-2. Complete the “Brainstorming” section.
-3. Complete the “Research” section.
-4. Complete the “Choose a Wireframe” section.
+### Project Plan
+- Clone or Fork the Starter Code.
+- Complete the “Brainstorming” section.
+- Complete the “Research” section.
+- Complete the “Choose a Wireframe” section.
 
-HTML
+### HTML
 Add HTML elements to your page, including but not limited to:
-5. Headings
-6. Paragraphs
-7. Images
-8. LinksLists
+- Headings
+- Paragraphs
+- Images
+- Links
+- Lists
 
-CSS
-10. Include a background color
-11. Change the color of the font
-12. Adjust image sizes
-13. Style using classes
-14. Link a stylesheet to your page
+### CSS
+- Include a background color
+- Change the color of the font
+- Adjust image sizes
+- Style using classes
+- Link a stylesheet to your page
 
-Formatting
-15. Adjust the spacing of your page.
-16. Adjusting the positioning of your page.
+### Formatting
+- Adjust the spacing of your page.
+- Adjusting the positioning of your page.
 
-Check Accessibility
+### Check Accessibility
 Check that the text is readable:
-17. Color contrast ratio of 4-4.5:1
-18. All images have alt attributes
+- Color contrast ratio of 4-4.5:1
+- All images have alt attributes
