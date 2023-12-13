@@ -1,19 +1,40 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+    
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
     color: black;
     text-align: center;
-    background-color: white;
+    background-color: #9CABA2;
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
-.section {
+/* .section {
     color:white;
     text-align: center;
-    background-color: black;
+    background-color: #2E3832;
+    font-size: 12px;
+} */
+
+h1 {
+  
 }
+
+h2 {
+  color:white;
+  text-align: center;
+  background-color: #2E3832;
+  font-size: 23px;
+}
+
+.section-container {
+    display:flex;
+    justify-content: space-around;
+}
+
+
+
